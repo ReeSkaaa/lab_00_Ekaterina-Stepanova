@@ -25,6 +25,8 @@ def main():
         f2 = open('output.txt', 'w')
         f2.write(str(last_digit()))
         f2.close()
+    else:
+        quit('Введите еще раз')
 
 
 if __name__ == '__main__':
