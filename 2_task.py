@@ -12,7 +12,7 @@ def main():
         f_new = 1
         for k in range(n):
             f_prev, f_new = f_new, f_new + f_prev
-        return f_prev
+        return f_new
 
     f1 = open('input.txt', 'r')
     n = int(f1.readline())
@@ -29,4 +29,3 @@ if __name__ == '__main__':
     main()
 t_start = time.perf_counter()
 print("Время выполнения: %s секунд" % (time.perf_counter() - t_start))
-
