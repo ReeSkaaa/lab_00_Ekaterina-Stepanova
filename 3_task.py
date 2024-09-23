@@ -12,7 +12,7 @@ def main():
         f_new = 1
         for k in range(n):
             f_prev, f_new = f_new, f_new + f_prev
-        return f_prev
+        return f_new
 
     def last_digit():
         ans = fib(n) % 10
