@@ -1,8 +1,10 @@
 import time
 from memory_profiler import profile
 
+t_start = time.perf_counter()
 
-@profile
+
+@profile()
 def main():
     a, b = open('../input.txt').read().split()
     a, b = int(a), int(b)
@@ -10,6 +12,8 @@ def main():
         open('../output.txt', 'w').write(str(a + b ** 2))
     else:
         quit('Введите еще раз')
+
+
 if __name__ == '__main__':
     main()
 t_start = time.perf_counter()

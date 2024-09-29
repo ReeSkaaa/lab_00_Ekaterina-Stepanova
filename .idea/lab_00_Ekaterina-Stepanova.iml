@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/algorithms-and-data-structures/lab_1" />
+        <option value="$MODULE_DIR$/algorithms-and-data-structures/lab_0/task_1" />
+        <option value="$MODULE_DIR$/algorithms-and-data-structures/lab_0" />
+      </list>
+    </option>
+  </component>
+</module>

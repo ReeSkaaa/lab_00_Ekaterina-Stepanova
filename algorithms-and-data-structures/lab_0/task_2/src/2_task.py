@@ -1,9 +1,9 @@
 import time
 
-t_start = time.perf_counter()
 
 from memory_profiler import profile
 
+t_start = time.perf_counter()
 
 @profile
 def main():
