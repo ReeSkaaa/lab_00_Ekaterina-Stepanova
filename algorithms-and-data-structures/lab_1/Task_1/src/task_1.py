@@ -1,8 +1,6 @@
 import time
 from memory_profiler import profile
 
-t_start = time.perf_counter()
-
 
 @profile()
 def insertion_sort(a, n):
@@ -16,6 +14,7 @@ def insertion_sort(a, n):
     return a
 
 
+t_start = time.perf_counter()
 if __name__ == '__main__':
     f1 = open('../txtf/input.txt', 'r')
     n = int(f1.readline())
