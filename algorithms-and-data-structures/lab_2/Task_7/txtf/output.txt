@@ -1,0 +1,2 @@
+Max subarray: 380434
+Subarray index: 805307 603563

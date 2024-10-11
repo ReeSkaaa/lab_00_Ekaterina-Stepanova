@@ -5,28 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e84eb9-581b-485e-8a30-ada2975f352c" name="Changes" comment="add lab_1">
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/src/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/txtf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/txtf/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/txtf/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_09_2024_19_36_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_09_2024_19_36_[Changes]1/отчет.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_09_2024_19_36__Changes_1.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/src/task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/txtf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/txtf/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/txtf/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/src/task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/txtf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/txtf/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/txtf/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/src/task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/txtf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/txtf/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/src/task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/txtf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/txtf/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/txtf/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/src/task_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/txtf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/txtf/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/txtf/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_1/src/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_1/src/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_3/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_3/txtf/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_3/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_3/txtf/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_6/src/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_6/src/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_1/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_1/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_1/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_1/txtf/output.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_6/txtf/input_Task9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_6/txtf/input_Task9.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_6/txtf/output_Task9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_6/txtf/output_Task9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_9/txtf/input_Task9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_9/txtf/input_Task9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_9/txtf/output_Task9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_9/txtf/output_Task9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/txtf/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/task_4.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +108,7 @@
     &quot;Python.1_task1.executor&quot;: &quot;Run&quot;,
     &quot;Python.3_task.executor&quot;: &quot;Run&quot;,
     &quot;Python.oo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2.executor&quot;: &quot;Run&quot;,
     &quot;Python.task_1 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.task_10.executor&quot;: &quot;Run&quot;,
@@ -101,13 +119,14 @@
     &quot;Python.task_5 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
     &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
     &quot;Python.task_8.executor&quot;: &quot;Run&quot;,
     &quot;Python.task_9.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ekaterina/Desktop/lab_00_Ekaterina-Stepanova/algorithms-and-data-structures/lab_1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ekaterina/Desktop/lab_00_Ekaterina-Stepanova/algorithms-and-data-structures/lab_2/Task_3&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
@@ -129,14 +148,36 @@
       <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_1\Task_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_2\Task_3\src" />
       <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_2" />
+      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_2\Task_4\src" />
+      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_2\Task_4\txtf" />
       <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_2\Task_1\src" />
-      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures" />
-      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_1" />
-      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_1\Task_1\tests" />
     </key>
   </component>
   <component name="RunManager" selected="Python.task_6">
+    <configuration name="Task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab_00_Ekaterina-Stepanova" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_2\Task_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab_00_Ekaterina-Stepanova" />
       <option name="ENV_FILES" value="" />
@@ -146,11 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_3/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/src" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_3/src/task_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/src/task_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_5 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab_00_Ekaterina-Stepanova" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_4/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/src" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_4/src/task_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/src/task_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_6/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/src" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_6/src/task_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/src/task_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab_00_Ekaterina-Stepanova" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,33 +275,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_8/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/src" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_8/src/task_8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lab_00_Ekaterina-Stepanova" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_9/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_9/src/task_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/src/task_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,19 +290,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.task_5" />
-      <item itemvalue="Python.task_3" />
       <item itemvalue="Python.task_6" />
-      <item itemvalue="Python.task_8" />
-      <item itemvalue="Python.task_9" />
-      <item itemvalue="Python.task_4" />
+      <item itemvalue="Python.Task_3" />
+      <item itemvalue="Python.task_3" />
+      <item itemvalue="Python.task_5 (1)" />
+      <item itemvalue="Python.task_7" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.task_6" />
-        <item itemvalue="Python.task_9" />
-        <item itemvalue="Python.task_8" />
-        <item itemvalue="Python.task_4" />
         <item itemvalue="Python.task_3" />
+        <item itemvalue="Python.task_5 (1)" />
+        <item itemvalue="Python.task_7" />
+        <item itemvalue="Python.Task_3" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +394,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728317835436</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add lab_1">
+      <option name="closed" value="true" />
+      <created>1728317967340</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728317967340</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -405,5 +432,16 @@
     <MESSAGE value="refractor" />
     <MESSAGE value="add lab_1" />
     <option name="LAST_COMMIT_MESSAGE" value="add lab_1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/src/task_3.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
