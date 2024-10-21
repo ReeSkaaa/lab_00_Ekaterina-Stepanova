@@ -7,8 +7,7 @@
 <li> Рассмотреть задачи по поиску максимального подмассива
     
 ## Инструкция по запуску:
-git clone https://github.com/
-ReeSkaaa/algorithms-and-data-structures/lab_2
+git clone https://github.com/ReeSkaaa/algorithms-and-data-structures/lab_2
 
 
 
