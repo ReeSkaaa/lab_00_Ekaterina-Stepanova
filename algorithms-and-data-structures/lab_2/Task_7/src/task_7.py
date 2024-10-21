@@ -28,7 +28,7 @@ if __name__ == '__main__':
     n = int(f1.readline())
     a = [random.randint(-10 ** 3, 10 ** 3) for i in range(n)]
     print(a)
-    f2 = open('../txtf/output.txt', 'w')
+    f2 = open('../txtf/output7.txt', 'w')
     max_sum, start, end = find_max_subarray(a, n)
     f2.write("Max subarray: " + str(max_sum) + '\n')
     f2.write("Subarray index: " + str(start) + ' ' + str(end))
