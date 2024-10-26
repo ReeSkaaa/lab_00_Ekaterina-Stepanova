@@ -1,6 +1,6 @@
-import time
-from memory_profiler import profile
 
+from memory_profiler import profile
+from lab_2.Task_6.utils import read_f, write_f
 @profile()
 def find_max_subarray(a, low, high):
     if high == low:
@@ -37,17 +37,8 @@ def find_max_crossing_subarray(a, low, mid, high):
     return (maxleft, maxright, leftsum + rightsum)
 
 
-t_start = time.perf_counter()
 if __name__ == "__main__":
-    f1 = open('../txtf/input.txt', 'r')
-    a = list(map(int, f1.readline().split()))
-    f1.close()
-    f2 = open('../txtf/output.txt', 'w')
-    f2.write(str("Name: Gazprom" + '\n'))
-    f2.write(str("Period under review: March 2024" + '\n'))
-    start, end, sum = find_max_subarray(a, 0, len(a) - 1)
-    f2.write('Day start: ' + str(start) + '\n')
-    f2.write('Day end: ' + str(end) + '\n')
-    f2.write('Max_sum: ' + str(sum))
-t_start = time.perf_counter()
-print("Время работы: %s секунд" % (time.perf_counter() - t_start))
+    read = read_f('../txtf/input.txt')
+    a = read[0]
+    s = find_max_subarray(a, 0, len(a) - 1)
+    write_f('../txtf/output.txt', s)

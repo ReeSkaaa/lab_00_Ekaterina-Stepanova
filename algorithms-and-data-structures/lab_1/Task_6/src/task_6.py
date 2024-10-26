@@ -1,7 +1,5 @@
-import time
 from memory_profiler import profile
-
-t_start = time.perf_counter()
+from lab_1.Task_6.utils import read_f, write_f
 
 
 @profile()
@@ -13,14 +11,11 @@ def bubble_sort(a):
     return a
 
 
-if __name__ == '__main__':
-    f1 = open('../txtf/input_Task9.txt', 'r')
-    a = list(map(int, f1.readline().split()))
-    f2 = open('../txtf/output_Task9.txt', 'w')
+def main():
+    read_res = read_f('../txtf/input_Task9.txt')
+    a = read_res[0]
     ans = [*map(str, bubble_sort(a))]
+    res = ''
     for i in ans:
-        f2.write(f'{i} ')
-    f2.close()
-    f1.close()
-t_start = time.perf_counter()
-print("Время работы: %s секунд" % (time.perf_counter() - t_start))
+        res += i + ' '
+    write_f('../txtf/output_Task9.txt', res)

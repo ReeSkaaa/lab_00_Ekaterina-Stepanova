@@ -1,7 +1,5 @@
-import time
 from memory_profiler import profile
-
-t_start = time.perf_counter()
+from lab_1.Task_9.utils import read_f, write_f
 
 
 @profile()
@@ -26,13 +24,9 @@ def binary_addition(n1, n2):
 
 
 if __name__ == '__main__':
-    f1 = open('../txtf/input_Task9.txt', 'r')
-    n1, n2 = map(str, f1.readline().split())
+    read = read_f('../txtf/input_Task9.txt')
+    n1, n2 = read[0][0], read[0][1]
     n1 = [*map(int, n1)]
     n2 = [*map(int, n2)]
-    f2 = open('../txtf/output_Task9.txt', 'w')
-    f2.write(binary_addition(n1, n2))
-    f2.close()
-    f1.close()
-t_start = time.perf_counter()
-print("Время работы: %s секунд" % (time.perf_counter() - t_start))
+    print(n1, n2)
+    write_f('../txtf/output_Task9.txt', binary_addition(n1, n2))

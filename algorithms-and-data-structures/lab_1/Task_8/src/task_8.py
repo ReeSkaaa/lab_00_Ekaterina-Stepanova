@@ -1,9 +1,5 @@
-import time
 from memory_profiler import profile
-
-t_start = time.perf_counter()
-
-
+from lab_1.Task_8.utils import write_f, read_f
 @profile()
 def mister_swap(a, n, f2):
     for i in range(n - 1):
@@ -18,18 +14,14 @@ def mister_swap(a, n, f2):
             f2.write(f'Swap elements at indices {i + 1} and {min_id + 1}.\n')
 
 
-if __name__ == '__main__':
-    f1 = open('../txtf/input_Task8.txt', 'r')
-    n = int(f1.readline())
+def main():
+    read_res = read_f('../txtf/input_Task8.txt')
+    n = read_res[0]
     if (3 <= n <= 5 * 10 ** 3):
-        a = list(map(int, f1.readline().split()))
+        a = read_res[1]
         f2 = open('../txtf/output_Task8.txt', 'w')
         mister_swap(a, n, f2)
         f2.write('No more swaps needed.')
         f2.close()
-
     else:
         print('Error.Try again')
-    f1.close()
-t_start = time.perf_counter()
-print("Время работы: %s секунд" % (time.perf_counter() - t_start))

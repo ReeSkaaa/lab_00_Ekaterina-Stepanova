@@ -1,7 +1,6 @@
-import time
 import random
 from memory_profiler import profile
-
+from lab_2.Task_7.utils import read_f, write_f
 
 @profile
 def find_max_subarray(a, n):
@@ -22,17 +21,10 @@ def find_max_subarray(a, n):
     return max_sum, start, end
 
 
-t_start = time.perf_counter()
 if __name__ == '__main__':
-    f1 = open('../txtf/input.txt', 'r')
-    n = int(f1.readline())
+    read = read_f('../txtf/input.txt')
+    n = read[0]
     a = [random.randint(-10 ** 3, 10 ** 3) for i in range(n)]
-    print(a)
-    f2 = open('../txtf/output7.txt', 'w')
-    max_sum, start, end = find_max_subarray(a, n)
-    f2.write("Max subarray: " + str(max_sum) + '\n')
-    f2.write("Subarray index: " + str(start) + ' ' + str(end))
-    f2.close()
-f1.close()
-t_start = time.perf_counter()
-print("Время работы: %s секунд" % (time.perf_counter() - t_start))
+    res = find_max_subarray(a, n)
+    write_f('../txtf/output.txt', res)
+
