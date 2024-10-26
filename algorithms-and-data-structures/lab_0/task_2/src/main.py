@@ -1,9 +1,5 @@
-import time
-
-
 from memory_profiler import profile
 
-t_start = time.perf_counter()
 
 @profile
 def main():
@@ -27,5 +23,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-t_start = time.perf_counter()
-print("Время выполнения: %s секунд" % (time.perf_counter() - t_start))

@@ -1,13 +1,14 @@
-import unittest
-import sys
-from Task_1.src.task_1 import insertion_sort
+import time
+from lab_0.task_2.src.main import main
 
-class calcTest(unittest.TestCase):
-    def test_power(self):
-        self.assertEqual(insertion_sort(5, 2), 25)
-
-
+def main():
+    a, b = 7, 8
+    if -10 ** 9 <= a <= 10 ** 9 and -10 ** 9 <= b <= 10 ** 9:
+        print(a + b ** 2)
 
 
-if __name__ == "__main__":
-    unittest.main()
+def test_time():
+    t_start = time.perf_counter()
+    main()
+    t_start = time.perf_counter()
+    print("Время работы: %s секунд" % (time.perf_counter() - t_start))
