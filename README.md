@@ -1,7 +1,15 @@
 # Практика по Алгоритмам и Cтруктурам Данных ИТМО 
-Студент ИТМО  Степанова Екатерина Андреевна
+Студент ИТМО  Степанова Екатерина Андреевна К3141
 
 ### Описание 
+В данном репозитории собраны задачи по основным алгоритмам программирования на языке Python
+
+## Ссылки на лабораторные работы:
+**Лаб_0** - https://github.com/ReeSkaaa/lab_00_Ekaterina-Stepanova/tree/main/algorithms-and-data-structures/lab_0?clckid=451fd57a
+
+**Лаб_1** - https://github.com/ReeSkaaa/lab_00_Ekaterina-Stepanova/tree/main/algorithms-and-data-structures/lab_1
+
+**Лаб_2** - https://github.com/ReeSkaaa/lab_00_Ekaterina-Stepanova/tree/main/algorithms-and-data-structures/lab_2
 
 ### Цели и задачи
 
@@ -60,4 +68,4 @@ pytest tests/
 ```
 
 ## Автор
-Екатерина
+Екатерина Степанова K3141
