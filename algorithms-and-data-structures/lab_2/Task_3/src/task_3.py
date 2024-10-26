@@ -1,5 +1,5 @@
-import time
 from memory_profiler import profile
+from lab_2.Task_3.utils import read_f, write_f
 @profile
 def merge(A, a, l, mid, r):
     k = i = l
@@ -22,7 +22,7 @@ def merge(A, a, l, mid, r):
         A[i] = a[i]
     return invCount
 
-t_start = time.perf_counter()
+
 def merge_sort(A, a, l, r):
     if l >= r:
         return 0
@@ -33,15 +33,9 @@ def merge_sort(A, a, l, r):
     invCount += merge(A, a, l, mid, r)
     return invCount
 
-
 if __name__ == '__main__':
-    f = open('../txtf/input.txt', 'r')
-    n = int(f.readline())
-    A = list(map(int, f.readline().split()))
-    f.close()
+    read = read_f('../txtf/input.txt')
+    n = read[0]
+    A = read[1]
     a = A.copy()
-    f = open('../txtf/output.txt', 'w')
-    f.write(str(merge_sort(A, a, 0, n - 1)) + "\n")
-    f.close()
-t_start = time.perf_counter()
-print("Время работы: %s секунд" % (time.perf_counter() - t_start))
+    write_f('../txtf/output.txt', A, a, 0, n-1)

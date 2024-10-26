@@ -1,6 +1,5 @@
-import time
 from memory_profiler import profile
-
+from lab_2.Task_4.utils import read_f, write_f
 
 @profile
 def binary_search(a, x):
@@ -17,20 +16,14 @@ def binary_search(a, x):
     return -1
 
 
-t_start = time.perf_counter()
 if __name__ == '__main__':
-    f1 = open('../txtf/input.txt', 'r')
-    n = int(f1.readline())
-    a = [int(x) for x in f1.readline().split()]
-    k = int(f1.readline())
-    b = [int(x) for x in f1.readline().split()]
-    f1.close()
+    read = read_f('../txtf/input.txt')
+    n = read[0]
+    a = read[1]
+    k = read[2]
+    b = read[3]
     if (1 <= n, k <= 10 ** 5):
-        f2 = open('../txtf/output.txt', 'w')
+        result = ''
         for i in range(k):
-            f2.write(str(binary_search(a, b[i])) + ' ')
-        f2.close()
-    else:
-        print('Error.Try again')
-t_start = time.perf_counter()
-print("Время работы: %s секунд" % (time.perf_counter() - t_start))
+            result+= str(binary_search(a, b[i])) + ' '
+    write_f('../txtf/input.txt', result)

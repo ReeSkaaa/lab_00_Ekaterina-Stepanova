@@ -1,7 +1,5 @@
-import time
 from memory_profiler import profile
-
-t_start = time.perf_counter()
+from lab_1.Task_5.utils import read_f, write_f
 
 
 @profile()
@@ -12,18 +10,11 @@ def selection_sort(a, n):
             if a[j] < a[min_elem]:
                 min_elem = j
         a[i], a[min_elem] = a[min_elem], a[i]
-
     return a
 
-
-if __name__ == '__main__':
-    f1 = open('../txtf/input_Task_5.txt', 'r')
-    n = int(f1.readline())
-    a = list(map(int, f1.readline().split()))
-    f2 = open('../txtf/output_Task_5.txt', 'w')
-    f2.write(str(selection_sort(a, n)))
-    f2.close()
-
-    f1.close()
-t_start = time.perf_counter()
-print("Время работы: %s секунд" % (time.perf_counter() - t_start))
+def main():
+    read_res = read_f('../txtf/input_Task_5.txt')
+    n = read_res[0]
+    a = read_res[1]
+    res = selection_sort(a, n)
+    write_f('../txtf/output_Task_5.txt', str(res))

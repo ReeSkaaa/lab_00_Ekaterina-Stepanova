@@ -1,5 +1,6 @@
-import time
+import timeit
 from memory_profiler import profile
+from lab_1.Task_1.utils import read_f, write_f
 
 
 @profile()
@@ -12,20 +13,10 @@ def insertion_sort(a, n):
                 break
 
     return a
-
-
-t_start = time.perf_counter()
-if __name__ == '__main__':
-    f1 = open('../txtf/input.txt', 'r')
-    n = int(f1.readline())
+def main():
+    read_res = read_f('../txtf/input.txt')
+    n = read_res[0]
     if (1 <= n <= 10 ** 3):
-        a = list(map(int, f1.readline().split()))
-        f2 = open('../txtf/output.txt', 'w')
-        f2.write(str(insertion_sort(a, n)))
-        f2.close()
+        a = read_res[1]
+        write_f('../txtf/output.txt', str(insertion_sort(a, n)))
 
-    else:
-        print('Error.Try again')
-    f1.close()
-t_start = time.perf_counter()
-print("Время работы: %s секунд" % (time.perf_counter() - t_start))

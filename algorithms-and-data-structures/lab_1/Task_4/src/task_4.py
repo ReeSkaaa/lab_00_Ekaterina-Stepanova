@@ -1,7 +1,5 @@
-import time
 from memory_profiler import profile
-
-t_start = time.perf_counter()
+from lab_1.Task_4.utils import read_f, write_f
 
 
 @profile()
@@ -14,14 +12,13 @@ def lin_searh(a, n, v):
             res.append(i)
     return k, res
 
-
-if __name__ == '__main__':
-    f1 = open('../txtf/input.txt', 'r')
+def main():
+    read_res = read_f('../txtf/input.txt')
+    n = read_res[0]
+    a = read_res[1]
+    v = read_res[2]
     f2 = open('../txtf/output.txt', 'w')
-    n = int(f1.readline())
-    a = list(map(int, f1.readline().split()))
-    v = int(f1.readline())
-    if (0 <= n <= 10 ** 3) and (-10 ** 3 <= min(a), max(a), v <= 10 ** 3):
+    if (0 <= n <= 10 ** 3) and (-10 ** 3 <= v <= 10 ** 3):
         k, res = lin_searh(a, n, v)
         if k > 1:
             f2.write(f'{str(k)}\n')
@@ -36,9 +33,5 @@ if __name__ == '__main__':
             f2.write(str(-1))
         f2.close()
 
-else:
-    print('Error.Try again')
-f1.close()
-
-t_start = time.perf_counter()
-print("Время работы: %s секунд" % (time.perf_counter() - t_start))
+    else:
+        print('Error.Try again')
