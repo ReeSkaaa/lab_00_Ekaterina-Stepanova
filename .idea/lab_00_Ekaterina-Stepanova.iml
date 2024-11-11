@@ -3,9 +3,9 @@
   <component name="PyNamespacePackagesService">
     <option name="namespacePackageFolders">
       <list>
-        <option value="$MODULE_DIR$/algorithms-and-data-structures/lab_1" />
-        <option value="$MODULE_DIR$/algorithms-and-data-structures/lab_0/task_1" />
-        <option value="$MODULE_DIR$/algorithms-and-data-structures/lab_0" />
+        <option value="$MODULE_DIR$/../algorithms-and-data-structures/lab_1" />
+        <option value="$MODULE_DIR$/../algorithms-and-data-structures/lab_0/task_1" />
+        <option value="$MODULE_DIR$/../algorithms-and-data-structures/lab_0" />
       </list>
     </option>
   </component>

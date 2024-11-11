@@ -4,46 +4,165 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e84eb9-581b-485e-8a30-ada2975f352c" name="Changes" comment="add lab_1">
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/src/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/txtf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/txtf/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/txtf/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/src/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/txtf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/txtf/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/txtf/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/src/task_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/txtf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/txtf/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/src/task_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/txtf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/txtf/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/txtf/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/src/task_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/txtf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/txtf/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/txtf/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_1/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_1/txtf/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_1/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_1/txtf/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_6/txtf/input_Task9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_6/txtf/input_Task9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_6/txtf/output_Task9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_1/Task_6/txtf/output_Task9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/txtf/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_1/txtf/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_4/task_4.py" beforeDir="false" />
+    <list default="true" id="f2e84eb9-581b-485e-8a30-ada2975f352c" name="Changes" comment="rename all">
+      <change afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_1/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_2/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_5/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_5/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_5/txtf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_5/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_6/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_6/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_6/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_6/txtf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_6/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/.idea/lab_00_Ekaterina-Stepanova.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/.idea/lab_00_Ekaterina-Stepanova.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_1/src/1_task.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_1/src/task_1.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_1/src/1_task.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_1/src/task_1.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_1/src/1_task.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_1/src/task_1.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_1/src/1_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_1/src/task_1.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_1/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_1/tests/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_1/tests/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_2/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_2/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_2/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_1/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_2/tests/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_2/tests/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_3/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_3/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_3/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_3/tests/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_3/tests/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_3/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_3/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_3/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_3/txtf/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_4/src/2_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_4/src/2_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_4/src/3_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_4/src/3_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_4/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_2/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/task_4/tests/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_4/tests/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_0/отчет.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/отчет.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_1/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_2/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_1/src/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_1/src/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_1/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_1/tests/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_1/tests/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_1/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_1/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_1/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_1/txtf/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_1/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_1/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_3/src/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_3/src/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_3/tests/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_3/tests/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_3/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_3/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_3/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_3/txtf/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_3/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_3/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_4/src/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_4/src/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_4/tests/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_4/tests/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_4/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_4/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_4/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_4/txtf/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_4/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_4/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_5/src/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_5/src/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_5/tests/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_5/tests/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_5/txtf/input_Task_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_5/txtf/input_Task_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_5/txtf/output_Task_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_5/txtf/output_Task_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_5/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_5/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_6/src/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_6/src/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_6/tests/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_6/tests/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_6/txtf/input_Task9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_6/txtf/input_Task9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_6/txtf/output_Task9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_6/txtf/output_Task9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_6/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_6/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_8/src/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_8/src/task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_8/tests/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_8/tests/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_8/txtf/input_Task8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_8/txtf/input_Task8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_8/txtf/output_Task8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_8/txtf/output_Task8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_8/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_8/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_9/src/task_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_9/src/task_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_9/tests/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_9/tests/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_9/txtf/input_Task9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_9/txtf/input_Task9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_9/txtf/output_Task9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_9/txtf/output_Task9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/Task_9/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_9/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_1/отчет.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/отчет.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_3/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_1/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_3/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_1/src/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_1/src/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_1/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_4/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_1/tests/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_1/tests/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_1/txtf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_4/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_1/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_1/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_1/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_1/txtf/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_1/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_1/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/Task_4/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_3/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_0/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_3/src/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_3/src/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_3/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_1/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_3/tests/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_3/tests/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_3/txtf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_1/Task_1/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_3/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_3/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_3/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_3/txtf/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_3/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_3/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_4/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_1/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_4/src/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_4/src/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_4/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_1/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_4/tests/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_4/tests/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_4/txtf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_1/txtf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_4/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_4/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_4/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_4/txtf/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_4/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_4/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_5/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_5/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_3/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_5/src/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_5/src/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_5/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_3/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_5/tests/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_5/tests/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_5/txtf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_3/txtf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_5/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_5/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_5/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_5/txtf/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_5/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_5/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_6/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_4/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_6/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_4/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_6/src/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_6/src/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_6/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_4/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_6/tests/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_6/tests/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_6/txtf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_4/txtf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_6/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_6/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_6/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_6/txtf/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_6/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_6/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_7/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_5/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_7/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_5/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_7/src/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_7/src/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_7/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_5/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_7/tests/test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_7/tests/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_7/txtf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_5/txtf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_7/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_7/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_7/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_7/txtf/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_7/txtf/output7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_7/txtf/output7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/Task_7/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_7/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_6/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_2/отчет.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/отчет.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_6/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_1/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_6/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_1/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_1/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_1/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_6/txtf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_1/txtf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_7/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_7/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_2/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_7/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_2/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_2/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_2/txtf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/Task_7/txtf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_2/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_2/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_2/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_2/txtf/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_5/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_5/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_5/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_5/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_5/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_1/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_5/txtf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_1/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_5/txtf/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_5/txtf/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_5/txtf/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_5/txtf/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_6/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_1/txtf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_6/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_6/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_6/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_6/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_2/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/Task_6/txtf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_2/txtf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/algorithms-and-data-structures/lab_3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_5/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,41 +215,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_1.calcTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_1.calcTest.test_power.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_1.calcTest.test_subtract.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in Task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_1.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_task.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_task.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_4 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_5 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_9.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ekaterina/Desktop/lab_00_Ekaterina-Stepanova/algorithms-and-data-structures/lab_2/Task_3&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test.test_binary.executor": "Run",
+    "Python tests.Python tests for test.test_bubble.executor": "Run",
+    "Python tests.Python tests for test.test_insertion_sort.executor": "Run",
+    "Python tests.Python tests for test.test_isertion_sort (1).executor": "Run",
+    "Python tests.Python tests for test.test_isertion_sort.executor": "Run",
+    "Python tests.Python tests for test.test_mem.executor": "Run",
+    "Python tests.Python tests for test.test_selection.executor": "Run",
+    "Python tests.Python tests for test.test_time (1).executor": "Run",
+    "Python tests.Python tests for test.test_time.executor": "Run",
+    "Python tests.Python tests for test_1.calcTest.executor": "Run",
+    "Python tests.Python tests for test_1.calcTest.test_power.executor": "Run",
+    "Python tests.Python tests for test_1.calcTest.test_subtract.executor": "Run",
+    "Python tests.Python tests for test_1.test_binary.executor": "Run",
+    "Python tests.Python tests for test_1.test_insertion_sort.executor": "Run",
+    "Python tests.Python tests for test_1.test_max_subbarray.executor": "Run",
+    "Python tests.Python tests for test_1.test_merge_sort (1).executor": "Run",
+    "Python tests.Python tests for test_1.test_merge_sort.executor": "Run",
+    "Python tests.Python tests for test_1.test_time (1).executor": "Run",
+    "Python tests.Python tests for test_1.test_time (2).executor": "Run",
+    "Python tests.Python tests for test_1.test_time.executor": "Run",
+    "Python tests.Python tests in Task_1.executor": "Run",
+    "Python tests.Python tests in test.py (1).executor": "Run",
+    "Python tests.Python tests in test.py.executor": "Run",
+    "Python tests.Python tests in test_1.py (1).executor": "Run",
+    "Python tests.Python tests in test_1.py (2).executor": "Run",
+    "Python tests.Python tests in test_1.py.executor": "Run",
+    "Python.1_task.2.executor": "Run",
+    "Python.1_task.4.executor": "Run",
+    "Python.1_task1.executor": "Run",
+    "Python.3_task.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main (2).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.oo.executor": "Run",
+    "Python.task2.executor": "Run",
+    "Python.task_1 (1).executor": "Run",
+    "Python.task_1.executor": "Run",
+    "Python.task_10.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_3.executor": "Run",
+    "Python.task_4 (1).executor": "Run",
+    "Python.task_4.executor": "Run",
+    "Python.task_5 (1).executor": "Run",
+    "Python.task_5.executor": "Run",
+    "Python.task_6.executor": "Run",
+    "Python.task_7.executor": "Run",
+    "Python.task_8.executor": "Run",
+    "Python.task_9.executor": "Run",
+    "Python.utils (1).executor": "Run",
+    "Python.utils.executor": "Run",
+    "Python.utils_lab (1).executor": "Run",
+    "Python.utils_lab.executor": "Run",
+    "Python.utilss.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "<unknown>",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Ekaterina/Desktop/lab_00_Ekaterina-Stepanova",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "two.files.diff.last.used.file": "C:/Users/Ekaterina/Desktop/lab_00_Ekaterina-Stepanova/algorithms-and-data-structures/lab_3/Task_2/src/main.py"
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="lab_00_Ekaterina-Stepanova" is-module-sdk="true">
@@ -141,22 +291,22 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_1" />
-      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_1\Task_1\src" />
-      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_1\Task_1\tests" />
-      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_1\Task_4" />
+      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova" />
+      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_3\Task_5\txtf" />
+      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_3" />
+      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_1\Task_1" />
       <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_1\Task_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_2\Task_3\src" />
-      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_2" />
-      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_2\Task_4\src" />
-      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_2\Task_4\txtf" />
-      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_2\Task_1\src" />
+      <recent name="C:\Users\Ekaterina\Desktop" />
+      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_3\Task_3\src" />
+      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_3\Task_2" />
+      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_3\Task_2\txtf" />
+      <recent name="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\utils1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task_6">
-    <configuration name="Task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab_00_Ekaterina-Stepanova" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,11 +315,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures\lab_2\Task_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_6/src" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_6/src/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +328,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab_00_Ekaterina-Stepanova" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +337,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_0/task_2/src" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/src/task_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_0/task_2/src/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +350,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_5 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab_00_Ekaterina-Stepanova" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,11 +359,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/src" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_5/src/task_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_3/Task_1/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab_00_Ekaterina-Stepanova" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Ekaterina\Desktop\lab_00_Ekaterina-Stepanova\algorithms-and-data-structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_3/Task_2/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,28 +416,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lab_00_Ekaterina-Stepanova" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_6/src/task_6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="task_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab_00_Ekaterina-Stepanova" />
       <option name="ENV_FILES" value="" />
@@ -288,21 +438,65 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_1.test_max_subbarray" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="lab_00_Ekaterina-Stepanova" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../algorithms-and-data-structures/lab_2/Task_7/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_1.test_max_subbarray&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="lab_00_Ekaterina-Stepanova" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../algorithms-and-data-structures/lab_0/task_1/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../algorithms-and-data-structures/lab_0/task_1/tests/test_1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="lab_00_Ekaterina-Stepanova" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_7/tests/test_1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.task_5" />
-      <item itemvalue="Python.task_6" />
-      <item itemvalue="Python.Task_3" />
-      <item itemvalue="Python.task_3" />
-      <item itemvalue="Python.task_5 (1)" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.task_7" />
+      <item itemvalue="Python tests.Python tests in test_1.py" />
+      <item itemvalue="Python tests.Python tests for test_1.test_max_subbarray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_6" />
-        <item itemvalue="Python.task_3" />
-        <item itemvalue="Python.task_5 (1)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Python tests for test_1.test_max_subbarray" />
         <item itemvalue="Python.task_7" />
-        <item itemvalue="Python.Task_3" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +596,71 @@
       <option name="project" value="LOCAL" />
       <updated>1728317967340</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add lab_1">
+      <option name="closed" value="true" />
+      <created>1728662398175</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728662398175</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add lab_1">
+      <option name="closed" value="true" />
+      <created>1729520694013</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729520694013</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add lab_1">
+      <option name="closed" value="true" />
+      <created>1729520754633</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729520754633</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add lab_1">
+      <option name="closed" value="true" />
+      <created>1729525006671</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1729525006671</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add tests, utils, gitignore/ update main files">
+      <option name="closed" value="true" />
+      <created>1729944172967</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1729944172967</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add tests, utils, gitignore/ update main files">
+      <option name="closed" value="true" />
+      <created>1729944325136</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1729944325136</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add tests, utils, gitignore/ update main files">
+      <option name="closed" value="true" />
+      <created>1729945184988</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1729945184988</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add tests, utils, gitignore/ update main files">
+      <option name="closed" value="true" />
+      <created>1729945242612</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1729945242612</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,15 +689,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refractor" />
     <MESSAGE value="add lab_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lab_1" />
+    <MESSAGE value="add tests, utils, gitignore/ update main files" />
+    <MESSAGE value="rename all" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename all" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/algorithms-and-data-structures/lab_2/Task_3/src/task_3.py</url>
+          <url>file://$PROJECT_DIR$/../algorithms-and-data-structures/lab_2/Task_3/src/task_3.py</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../algorithms-and-data-structures_Stepanova/lab_3/Task_6/src/main.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
