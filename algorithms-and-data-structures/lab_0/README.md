@@ -13,7 +13,7 @@ git clone https://github.com/ReeSkaaa/algorithms-and-data-structures/lab_1
 
 2. Перейдите в папку с проектом:
 
-   cd algorithms-and-data-structures/lab_1
+cd algorithms-and-data-structures/lab_1
  
 3. Запустите программу:
     python src/main.py
