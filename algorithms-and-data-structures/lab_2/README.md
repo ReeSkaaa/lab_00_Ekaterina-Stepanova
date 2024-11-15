@@ -85,11 +85,11 @@ lab_2/
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/username/algorithms-and-data-structures.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd repository-name/lab1
+   cd repository-name/lab_1
    ```
 3. **Запуску всех задач**
     ```bash
