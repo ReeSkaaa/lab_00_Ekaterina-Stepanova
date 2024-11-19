@@ -4,6 +4,8 @@ from memory_profiler import profile
 
 t_start = time.perf_counter()
 
+PATH = '../txtf/input.txt'
+PATH_OUTPUT = '../txtf/output.txt'
 
 @profile
 def main():
@@ -18,11 +20,11 @@ def main():
         ans = fib(n) % 10
         return ans
 
-    f1 = open('../../input.txt', 'r')
+    f1 = open(PATH, 'r')
     n = int(f1.readline())
     f1.close()
     if 0 <= n <= 10 ** 7:
-        f2 = open('../../output.txt', 'w')
+        f2 = open(PATH_OUTPUT, 'w')
         f2.write(str(last_digit()))
         f2.close()
     else:

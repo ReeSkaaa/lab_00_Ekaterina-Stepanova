@@ -1,4 +1,11 @@
-from lab_3 import read_f, write_f
+from lab_3.utils import read_f, write_f
+
+
+PATH = '../txtf/input.txt'
+PATH_OUTPUT = '../txtf/output.txt'
+
+
+
 def partition(arr, low, high):
     pivot = arr[high]
     i = low - 1
@@ -28,6 +35,11 @@ def h_index(citations, N):
     return h
 
 if __name__ == "__main__":
-    read_vector = read_f("../txtf/input.txt")
-    citations = read_vector[0]
-    write_f("../txtf/output.txt", str(h_index(citations, len(citations))))
+    read = read_f(5)
+    a = read[0]
+    a = list(map(int, a.split()))
+    result = h_index(a, len(a))
+    write_f(5, result)
+
+
+

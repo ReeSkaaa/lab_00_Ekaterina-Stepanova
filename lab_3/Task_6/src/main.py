@@ -1,11 +1,13 @@
+from lab_3.utils import read_f, write_f
+
+
+PATH = '../txtf/input.txt'
+PATH_OUTPUT = '../txtf/output.txt'
+
+
 def partition(arr, low, high):
-
     pivot = arr[high]
-
-
     i = low - 1
-
-
     for j in range(low, high):
         if arr[j] < pivot:
             i += 1
@@ -13,6 +15,7 @@ def partition(arr, low, high):
 
     swap(arr, i + 1, high)
     return i + 1
+
 
 def swap(arr, i, j):
     arr[i], arr[j] = arr[j], arr[i]
@@ -34,11 +37,23 @@ def multiplication(a, b):
     return c
 
 
+def get_result(c):
+    sum_of_tenth = 0
+    i = 0
+    while i < len(c):
+        if i % 10 == 0:
+            sum_of_tenth += c[i]
+        i += 1
+    return sum_of_tenth
+
+
 if __name__ == "__main__":
-    n, m = map(int, input().split())
-    a = [7, 1, 4, 9]
-    b = [2, 7, 8, 11]
+    _, a_, b_ = read_f(6)
+    a = list(map(int, a_.split()))
+    b = list(map(int, b_.split()))
+    print(a, b)
     c = multiplication(a, b)
     quickSort(c, 0, len(c) - 1)
-    for i in c:
-        print(i, end=' ')
+    result = get_result(c)
+
+    write_f(6, result)

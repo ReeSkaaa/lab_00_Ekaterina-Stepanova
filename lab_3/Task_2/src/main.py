@@ -1,3 +1,8 @@
+from lab_3.utils import read_f, write_f
+
+
+PATH = '../txtf/input.txt'
+PATH_OUTPUT = '../txtf/output.txt'
 
 
 def antiQuickSortPermutation(n):
@@ -14,7 +19,7 @@ def swap(a, i, j):
 
 
 if __name__ == "__main__":
-    res_read = read_f("../txtf/input.txt")
-    n = int(res_read[0][0])
+    read = read_f(2)
+    n = int(read[0])
     result = antiQuickSortPermutation(n)
-    write_f("../txtf/output.txt", str(result))
+    write_f(2, result)

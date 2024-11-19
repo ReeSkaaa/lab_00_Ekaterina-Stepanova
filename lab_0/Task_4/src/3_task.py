@@ -4,6 +4,8 @@ from memory_profiler import profile
 
 t_start = time.perf_counter()
 
+PATH = '../txtf/input.txt'
+PATH_OUTPUT = '../txtf/output.txt'
 
 @profile
 def main():
