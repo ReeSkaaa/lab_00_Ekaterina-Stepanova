@@ -11,6 +11,8 @@
 
 **Лаб_2** - https://github.com/ReeSkaaa/lab_00_Ekaterina-Stepanova/tree/main/algorithms-and-data-structures/lab_2
 
+**Лаб_3** - https://github.com/ReeSkaaa/algorithms-and-data-structures/tree/main/lab_3
+
 ### Цели и задачи
 
 - Изучить основные команды Git
