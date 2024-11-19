@@ -5,11 +5,11 @@
 В данном репозитории собраны задачи по основным алгоритмам программирования на языке Python
 
 ## Ссылки на лабораторные работы:
-**Лаб_0** - https://github.com/ReeSkaaa/lab_00_Ekaterina-Stepanova/tree/main/algorithms-and-data-structures/lab_0?clckid=451fd57a
+**Лаб_0** - https://github.com/ReeSkaaa/algorithms-and-data-structures/tree/main/lab_0
 
-**Лаб_1** - https://github.com/ReeSkaaa/lab_00_Ekaterina-Stepanova/tree/main/algorithms-and-data-structures/lab_1
+**Лаб_1** - https://github.com/ReeSkaaa/algorithms-and-data-structures/tree/main/lab_1
 
-**Лаб_2** - https://github.com/ReeSkaaa/lab_00_Ekaterina-Stepanova/tree/main/algorithms-and-data-structures/lab_2
+**Лаб_2** - https://github.com/ReeSkaaa/algorithms-and-data-structures/tree/main/lab_2
 
 **Лаб_3** - https://github.com/ReeSkaaa/algorithms-and-data-structures/tree/main/lab_3
 
