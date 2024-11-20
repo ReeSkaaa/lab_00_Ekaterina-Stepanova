@@ -24,15 +24,15 @@
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd repository-name/lab_3
+   cd algorithms-and-data-structures/lab_3
    ```
 3. **Запуску всех задач**
     ```bash
-        команда
+        python3 run_code_script.py 
 
 4. **Запуску всех  тестов задач**
     ```bash
-        команда
+       python3 run_tests_script.py 
 
 ## Тестирование
 Для запуска тестов выполните:

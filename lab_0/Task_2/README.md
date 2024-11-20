@@ -46,11 +46,11 @@ print(calc_fib(n))
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/ReeSkaaa/algorithms-and-data-structures.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd repository-name/lab1
+   cd algorithms-and-data-structures/lab_0
    ```
 3. Запустите программу:
    ```bash
@@ -66,5 +66,5 @@ print(calc_fib(n))
 ## Тестирование
 Для запуска тестов выполните:
 ```bash
-    pytest tests/
+    python3 run_tests_script.py
 ```
