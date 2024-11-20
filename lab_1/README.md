@@ -28,8 +28,8 @@
    ```
 3. **Запуску всех задач**
     ```bash
-        команда
+        python3 run_code_script.py
 
 4. **Запуску всех  тестов задач**
     ```bash
-        команда
+        python3 run_tests_script.py
