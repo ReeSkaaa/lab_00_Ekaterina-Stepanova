@@ -17,3 +17,11 @@ for i in tasks:
     print('######## Lab_2', f'Task_{i}', '###########################################################')
     PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), 'lab_2', f'Task_{i}', 'tests', 'test.py'))
     subprocess.run("python " + PATH, shell=True)
+
+#запуск третьей лабы
+tasks = ['1', '2', '3', '5', '6', '7']
+for i in tasks:
+    print(' ')
+    print('######## Lab_3', f'Task_{i}', '###########################################################')
+    PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), 'lab_3', f'Task_{i}', 'tests', 'test.py'))
+    subprocess.run("python " + PATH, shell=True)
