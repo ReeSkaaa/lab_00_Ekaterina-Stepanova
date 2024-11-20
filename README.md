@@ -56,5 +56,3 @@
 python3 run_tests_script.py 
 ```
 
-## Автор
-Екатерина Степанова K3141
