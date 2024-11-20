@@ -66,7 +66,7 @@
 ## Тестирование
 Для запуска тестов выполните:
 ```bash
-pytest tests/
+python3 run_tests_script.py 
 ```
 
 ## Автор
