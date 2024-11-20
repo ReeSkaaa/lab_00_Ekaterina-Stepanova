@@ -1,2 +1,2 @@
-Max subarray: 618
-Subarray index: 1 2
+Max subarray: 435
+Subarray index: 2 2
