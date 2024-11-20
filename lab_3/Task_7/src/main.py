@@ -24,7 +24,5 @@ def get_answer(data):
 if __name__ == '__main__':
     data = read_f(7)
     result = get_answer(data)
-    print(data)
-    print(result)
     write_f(7, result)
 

@@ -1,5 +1,5 @@
 Name: Gazprom
 Period under review: March 2024
-Day star: 1
+Day start: 1
 Day end: 10
 Max_sum: 144

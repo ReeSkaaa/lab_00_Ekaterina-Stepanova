@@ -51,9 +51,7 @@ if __name__ == "__main__":
     _, a_, b_ = read_f(6)
     a = list(map(int, a_.split()))
     b = list(map(int, b_.split()))
-    print(a, b)
     c = multiplication(a, b)
     quickSort(c, 0, len(c) - 1)
     result = get_result(c)
-
     write_f(6, result)

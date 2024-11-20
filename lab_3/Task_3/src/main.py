@@ -21,7 +21,6 @@ if __name__ == "__main__":
     n, k = int(a[0]), int(a[1])
     data = list(map(int, read.split()))
     result = scarecrow_sort(n, k, data)
-    print(result)
     if result:
         write_f(3, "ДА")
     else:
