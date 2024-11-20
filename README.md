@@ -30,7 +30,7 @@
 
 1. **Клонирование репозитория:**
    ```bash
-   git clone https://github.com/ReeSkaaa/lab_00_Ekaterina-Stepanova
+   git clone https://github.com/ReeSkaaa/algorithms-and-data-structures
 
 
 
@@ -52,21 +52,21 @@
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/ReeSkaaa/algorithms-and-data-structures.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd repository-name/lab1
+   cd algorithms-and-data-structures/lab_1
    ```
 3. Запустите программу:
    ```bash
-   python src/main.py
+   python3 src/main.py
    ```
 
 ## Тестирование
 Для запуска тестов выполните:
 ```bash
-pytest tests/
+python3 run_tests_script.py 
 ```
 
 ## Автор
