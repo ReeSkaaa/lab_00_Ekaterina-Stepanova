@@ -49,7 +49,7 @@ return "нет элемента большинства"
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   cd algorithms-and-data-structures/lab_2
    ```
 2. Перейдите в папку с проектом:
    ```bash
