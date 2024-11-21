@@ -50,7 +50,7 @@ b0, ...bk−1, 1 ≤ bj ≤ 109 для всех 0 ≤ j < k.
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   python Task_4/src/main.py
+   cd algorithms-and-data-structures/lab_2
    ```
 3. Запустите программу:
    ```bash
