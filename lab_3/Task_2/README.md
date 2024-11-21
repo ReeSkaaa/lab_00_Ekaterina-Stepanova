@@ -1,4 +1,4 @@
-# Задание №1 по варианту  : `Анти-quick sort`
+# Задание №2 по варианту  : `Анти-quick sort`
 Студентка ИТМО,  Степанова Екатерина Андреевна 467596
 
 ## Вариант 20
@@ -48,20 +48,20 @@ qsort(0, n - 1)
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/ReeSkaaa/algorithms-and-data-structures.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd repository-name/lab1
+   cd algorithms-and-data-structures/lab_3
    ```
 3. Запустите программу:
    ```bash
-   python src/main.py
+   python Task_2/src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python src/main.py
+   python Task_2/tests/test.py
    ```
 
 

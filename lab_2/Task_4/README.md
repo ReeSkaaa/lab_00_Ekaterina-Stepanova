@@ -46,15 +46,15 @@ b0, ...bk−1, 1 ≤ bj ≤ 109 для всех 0 ≤ j < k.
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://ReeSkaaa/algorithms-and-data-structures.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd repository-name/lab1
+   cd algorithms-and-data-structures/lab_2
    ```
 3. Запустите программу:
    ```bash
-   python src/main.py
+   python Task_4/tests/test.py
    ```
 
 4. Запуск тестов:

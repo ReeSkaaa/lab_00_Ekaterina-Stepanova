@@ -36,20 +36,20 @@
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/ReeSkaaa/algorithms-and-data-structures.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd repository-name/lab1
+   cd algorithms-and-data-structures/lab_3
    ```
 3. Запустите программу:
    ```bash
-   python src/main.py
+   python  Task_1/src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python src/main.py
+   python  Task_1/tests/test.py
    ```
 
 
