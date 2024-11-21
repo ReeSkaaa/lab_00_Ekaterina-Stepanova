@@ -53,16 +53,16 @@ return "нет элемента большинства"
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd repository-name/lab1
+   cd algorithms-and-data-structures/lab_2
    ```
 3. Запустите программу:
    ```bash
-   python src/main.py
+   python Task_5/src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python src/main.py
+   python Task_5/tests/test.py
    ```
 
 
