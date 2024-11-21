@@ -51,7 +51,7 @@ m чисел — элементы массива B. Элементы масси�
 
 4. Запуск тестов:
    ```bash
-   python src/main.py
+   python tests/test.py
    ```
 
 
