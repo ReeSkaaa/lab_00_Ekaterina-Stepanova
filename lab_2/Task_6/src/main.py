@@ -43,7 +43,6 @@ if __name__ == "__main__":
     read_ = read_f(6)
     data = list(map(int, read_[0].split()))
     s = find_max_subarray(data, 0, len(data) - 1)
-    print(s)
     answer = ["Name: Gazprom",
               "Period under review: March 2024",
               "Day start: " + str(s[0]), "Day end: " + str(s[1]), "Max_sum: " + str(s[2])]

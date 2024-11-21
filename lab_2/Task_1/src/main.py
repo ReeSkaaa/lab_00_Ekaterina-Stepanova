@@ -1,11 +1,8 @@
 import sys
-import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 from lab_2.utils import read_f, write_f
 sys.setrecursionlimit(30000)
 
-PATH = '../txtf/input.txt'
-PATH_OUTPUT = '../txtf/output.txt'
+
 
 def merge(a, p, q, r):
     n1 = q - p + 1
