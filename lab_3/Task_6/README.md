@@ -46,12 +46,12 @@ m чисел — элементы массива B. Элементы масси�
    ```
 3. Запустите программу:
    ```bash
-   python src/main.py
+   python Task_6/src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python tests/test.py
+   python Task_6/tests/test.py
    ```
 
 
