@@ -44,12 +44,12 @@
    ```
 3. Запустите программу:
    ```bash
-   python src/main.py
+   python  Task_1/src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python tests/test.py
+   python  Task_1/tests/test.py
    ```
 
 
