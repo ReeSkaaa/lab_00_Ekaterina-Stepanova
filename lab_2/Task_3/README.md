@@ -48,7 +48,9 @@ n(n − 1)/2).
    ```
 2. Перейдите в папку с проектом:
    ```bash
-  cd algorithms-and-data-structures/lab_2
+   
+   cd algorithms-and-data-structures/lab_2
+  
    ```
 3. Запустите программу:
    ```bash
