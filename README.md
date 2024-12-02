@@ -45,7 +45,8 @@
 3. **Запуску всех лабараторных**
     ```bash
     python3 run_code_script.py 
-
+    ```
 4. **Запуску всех тестов**
     ```bash
-        python3 run_tests_script.py 
+    python3 run_tests_script.py 
+   ```
