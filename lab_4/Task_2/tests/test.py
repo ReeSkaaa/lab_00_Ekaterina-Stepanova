@@ -19,11 +19,13 @@ class TestStringMethods(unittest.TestCase):
         end_time = timeit.default_timer()
         time = end_time - start_time
 
+
         # memory test
         tracemalloc.start()
         result = do_queue(data)
         current, peak = tracemalloc.get_traced_memory()
         tracemalloc.stop()
+
 
         # then
         self.assertEqual(result, expected_data)
