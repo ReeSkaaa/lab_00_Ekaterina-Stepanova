@@ -35,9 +35,3 @@
 4. **Запуску всех  тестов задач**
     ```bash
        python3 run_tests_script.py 
-
-## Тестирование
-Для запуска тестов выполните:
-```bash
-    pytest tests/test.py
-```
