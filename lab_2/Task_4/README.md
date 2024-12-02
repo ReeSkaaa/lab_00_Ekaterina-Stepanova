@@ -59,7 +59,7 @@ b0, ...bk−1, 1 ≤ bj ≤ 109 для всех 0 ≤ j < k.
 
 4. Запуск тестов:
    ```bash
-   python src/main.py
+   python src/13.1.py
    ```
 
 

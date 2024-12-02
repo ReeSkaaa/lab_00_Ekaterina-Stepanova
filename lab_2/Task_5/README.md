@@ -57,7 +57,7 @@ return "нет элемента большинства"
    ```
 3. Запустите программу:
    ```bash
-   python Task_5/src/main.py
+   python Task_5/src/13.1.py
    ```
 
 4. Запуск тестов:

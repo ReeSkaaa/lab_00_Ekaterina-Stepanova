@@ -65,7 +65,7 @@
    ```
 3. Запустите программу:
    ```bash
-   python Task_1/src/main.py
+   python Task_1/src/13.1.py
    ```
 
 4. Запуск тестов:

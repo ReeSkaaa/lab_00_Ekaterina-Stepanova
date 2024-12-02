@@ -54,12 +54,12 @@ Bubble_Sort, a n - длина массива A.
    ```
 3. Запустите программу:
    ```bash
-   python src/main.py
+   python src/13.1.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python src/main.py
+   python src/13.1.py
    ```
 
 

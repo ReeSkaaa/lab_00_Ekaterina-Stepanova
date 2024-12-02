@@ -5,7 +5,7 @@ import os
 
 def run_all_tests():
     "Функция для запуска всех тестов"
-    for i in range(1, 4):
+    for i in range(1, 5):
         print(Fore.GREEN + '-------Запуск тестов для', f'lab_{i}',
               '------------------------------------------' + Style.RESET_ALL)
         PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), f'lab_{i}', 'run_tests_script.py'))

@@ -52,7 +52,7 @@ n и k (1 ≤ n, k ≤ 105
    ```
 3. Запустите программу:
    ```bash
-   python Task_3/src/main.py
+   python Task_3/src/13.1.py
    ```
 
 4. Запуск тестов:
