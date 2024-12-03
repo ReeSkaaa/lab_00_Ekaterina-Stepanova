@@ -2,7 +2,7 @@ import subprocess
 import os
 
 
-def run_3_lab_tests():
+def run_4_lab_tests():
     "Функция для запуска тестов 4 лабы"
     tasks = ['2','4', '6', '7', '8']
     for i in tasks:
@@ -13,4 +13,4 @@ def run_3_lab_tests():
 
 
 if __name__ == '__main__':
-    run_3_lab_tests()
+    run_4_lab_tests()

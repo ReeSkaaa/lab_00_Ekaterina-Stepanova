@@ -56,12 +56,12 @@ qsort(0, n - 1)
    ```
 3. Запустите программу:
    ```bash
-   python Task_4/src/13.1.py
+   python Task_7/src/13.1.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python Task_4/tests/test.py
+   python Task_7/tests/test.py
    ```
 
 

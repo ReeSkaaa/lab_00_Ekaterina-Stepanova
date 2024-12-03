@@ -54,7 +54,7 @@ b0, ...bk−1, 1 ≤ bj ≤ 109 для всех 0 ≤ j < k.
    ```
 3. Запустите программу:
    ```bash
-   python Task_4/tests/test.py
+   python Task_7/tests/test.py
    ```
 
 4. Запуск тестов:

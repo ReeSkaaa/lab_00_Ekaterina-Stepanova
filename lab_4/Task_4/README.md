@@ -57,10 +57,10 @@
    ```
 3. Запустите программу:
    ```bash
-   python  Task_4/src/main.py
+   python  Task_7/src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python  Task_4/tests/test.py
+   python  Task_7/tests/test.py
    ```
