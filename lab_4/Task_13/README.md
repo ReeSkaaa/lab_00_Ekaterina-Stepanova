@@ -28,6 +28,6 @@ c проверкой на переполнение и опустошения о�
    ```
 3. Запустите программу:
    ```bash
-   python  Task_1/src/13.1.py
-   python  Task_1/src/13.2.py
+   python  Task_2/src/13.1.py
+   python  Task_2/src/13.2.py
    ```

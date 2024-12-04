@@ -65,12 +65,12 @@
    ```
 3. Запустите программу:
    ```bash
-   python Task_1/src/13.1.py
+   python Task_2/src/13.1.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python Task_1/tests/test.py
+   python Task_2/tests/test.py
    ```
 
 

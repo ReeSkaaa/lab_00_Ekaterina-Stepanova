@@ -1,2 +1,2 @@
-Max subarray: 571
+Max subarray: 270
 Subarray index: 2 2

@@ -54,12 +54,12 @@ n(n − 1)/2).
    ```
 3. Запустите программу:
    ```bash
-   python Task_3/src/13.1.py
+   python Task_1/src/13.1.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python Task_3/tests/test.py
+   python Task_1/tests/test.py
    ```
 
 
