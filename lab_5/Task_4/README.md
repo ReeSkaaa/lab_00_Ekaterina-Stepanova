@@ -42,10 +42,10 @@ N» означает добавление в очередь числа N, по �
    ```
 3. Запустите программу:
    ```bash
-   python  Task_2/src/main.py
+   python  Task_1/src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python  Task_2/tests/test.py
+   python  Task_1/tests/test.py
    ```
