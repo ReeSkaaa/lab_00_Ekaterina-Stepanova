@@ -16,7 +16,7 @@ class TestPresidentialElections(unittest.TestCase):
         # when
         # time test
         start_time = timeit.default_timer()
-        result = do_task(n, data, s ={})
+        result = do_task(n, data, s={})
         end_time = timeit.default_timer()
         time = end_time - start_time
 
@@ -77,7 +77,6 @@ class TestPresidentialElections(unittest.TestCase):
         result = do_task(n, data, s={})
         current, peak = tracemalloc.get_traced_memory()
         tracemalloc.stop()
-
         # then
         self.assertEqual(result, expected_data)
         self.assertLessEqual(time, expected_time, F"Run time = {time} <= {expected_time}")

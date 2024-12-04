@@ -10,7 +10,7 @@ class TestSetCommands(unittest.TestCase):
         # given
         expected_time = 2
         n = 8
-        data =['A 2', 'A 5', 'A 3', '? 2', '? 4', 'A 2', 'D 2', '? 2']
+        data = ['A 2', 'A 5', 'A 3', '? 2', '? 4', 'A 2', 'D 2', '? 2']
         expected_data = ['Y', 'N', 'N', 'Y', 'N', 'N']
 
         # when
@@ -30,6 +30,7 @@ class TestSetCommands(unittest.TestCase):
         self.assertEqual(result, expected_data)
         self.assertLessEqual(time, expected_time, F"Run time = {time} <= {expected_time}")
         self.assertLessEqual(current, peak, F"Run memory = {current} <= {peak}")
+
 
 if __name__ == '__main__':
     unittest.main()
