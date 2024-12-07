@@ -54,17 +54,10 @@ print(calc_fib(n))
    ```
 3. Запустите программу:
    ```bash
-   python src/main_13_1.py
+   python src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python src/main_13_1.py
+   python src/main.py
    ```
-
-
-## Тестирование
-Для запуска тестов выполните:
-```bash
-    python3 run_tests_script.py
-```
