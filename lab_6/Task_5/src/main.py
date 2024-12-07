@@ -1,12 +1,20 @@
 from lab_6.utils import read_f, write_f
 
 
+def quicksort(arr):
+    if len(arr) < 2:
+        return arr
+    else:
+        pivot = arr[0]
+        left = [x for x in arr[1:] if x <= pivot]
+        right = [y for y in arr[1:] if y > pivot]
+        return quicksort(left) + [pivot] + quicksort(right)
 
-
-def sort(s):
-    answer = sorted(s.items(), key=lambda x: x[0])
-    return answer
-
+def sort_items(s):
+    result = []
+    for key, value in s.items():
+        result.append((key, value))
+    return quicksort(result)
 
 def do_task(n, a, s):
     for i in range(n):
@@ -16,7 +24,7 @@ def do_task(n, a, s):
         else:
             s[name] = int(count)
 
-    ans = sort(s)
+    ans = sort_items(s)
     return ans
 
 
