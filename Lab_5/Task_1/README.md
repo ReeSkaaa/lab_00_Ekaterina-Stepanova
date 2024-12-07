@@ -40,10 +40,10 @@
    ```
 3. Запустите программу:
    ```bash
-   python  Task_2/src/main.py
+   python  Task_1/src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python  Task_2/tests/test_13_1.py
+   python  Task_1/tests/test.py
    ```
