@@ -58,5 +58,5 @@ Fi = Fi−1 + Fi−2 для i ≥ 2.
 
 4. Запуск тестов:
    ```bash
-   python  Task_6/tests/test_13_1.py
+   python  Task_6/tests/test.py
    ```
