@@ -55,5 +55,5 @@ coins = {coin1, ..., coink}. 1 ≤ k ≤ 100, 1 ≤ coini ≤ 103.
 
 4. Запуск тестов:
    ```bash
-   python  Task_1/tests/test_13_1.py
+   python  Task_1/tests/test.py
    ```
