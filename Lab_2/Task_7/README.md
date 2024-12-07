@@ -36,7 +36,6 @@ j.
 - Ограничение по времени. 2сек.
 - Ограничение по памяти. 256 мб.
 
-
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
@@ -45,21 +44,14 @@ j.
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd algorithms-and-data-structures/lab_2
+   cd algorithms-and-data-structures/Lab_2
    ```
 3. Запустите программу:
    ```bash
-   python Task_7/src/main_13_1.py
+   python Task_7/src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python Task_7/tests/test_13_1.py
+   python Task_7/tests/test.py
    ```
-
-
-## Тестирование
-Для запуска тестов выполните:
-```bash
-    pytest tests/
-```
