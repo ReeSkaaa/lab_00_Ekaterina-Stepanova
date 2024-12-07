@@ -62,5 +62,5 @@
 
 4. Запуск тестов:
    ```bash
-   python src/main.py
+   python tests/test.py
    ```
