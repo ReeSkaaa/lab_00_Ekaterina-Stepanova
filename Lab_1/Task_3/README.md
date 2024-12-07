@@ -30,21 +30,14 @@
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd repository-name/lab1
+   cd repository-name/Lab_2
    ```
 3. Запустите программу:
    ```bash
-   python src/main_13_1.py
+   python src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python src/main_13_1.py
+   python tests/test.py
    ```
-
-
-## Тестирование
-Для запуска тестов выполните:
-```bash
-    pytest tests/
-```
