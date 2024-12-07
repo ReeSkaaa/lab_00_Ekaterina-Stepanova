@@ -46,12 +46,12 @@ h из его/её Np статей цитируются как минимум h 
    ```
 3. Запустите программу:
    ```bash
-   python Task_5/src/main_13_1.py
+   python Task_5/src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python Task_5/tests/test_13_1.py
+   python Task_5/tests/test.py
    ```
 
 
