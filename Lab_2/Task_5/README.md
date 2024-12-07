@@ -49,25 +49,18 @@ return "нет элемента большинства"
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   cd algorithms-and-data-structures/lab_2
+   cd algorithms-and-data-structures/Lab_2
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd algorithms-and-data-structures/lab_2
+   cd algorithms-and-data-structures/Lab_2
    ```
 3. Запустите программу:
    ```bash
-   python Task_5/src/main_13_1.py
+   python src/main_13.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python Task_5/tests/test_13_1.py
+   python tests/test.py
    ```
-
-
-## Тестирование
-Для запуска тестов выполните:
-```bash
-    pytest tests/
-```
