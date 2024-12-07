@@ -26,11 +26,11 @@
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://ReeSkaaa/algorithms-and-data-structures.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd repository-name/Lab_2
+   cd algorithms-and-data-structures/Lab_2
    ```
 3. Запустите программу:
    ```bash
