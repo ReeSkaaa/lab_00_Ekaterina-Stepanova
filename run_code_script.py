@@ -1,5 +1,5 @@
 import subprocess
-from colorama import Fore, Back, Style
+from colorama import Fore, Style
 import os
 
 
