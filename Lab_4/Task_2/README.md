@@ -47,5 +47,5 @@ N» означает добавление в очередь числа N, по �
 
 4. Запуск тестов:
    ```bash
-   python  Task_2/tests/test_13_1.py
+   python  Task_2/tests/test.py
    ```
