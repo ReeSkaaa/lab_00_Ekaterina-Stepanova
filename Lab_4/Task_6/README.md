@@ -51,6 +51,6 @@
 
 4. Запуск тестов:
    ```bash
-   python  Task_6/tests/test_13_1.py
+   python  Task_6/tests/test.py
    ```
 

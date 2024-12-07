@@ -66,5 +66,5 @@ A ← (A + AD) mod 103
 
 4. Запуск тестов:
    ```bash
-   python  Task_8/tests/test_13_1.py
+   python  Task_8/tests/test.py
    ```

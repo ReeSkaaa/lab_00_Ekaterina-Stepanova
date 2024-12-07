@@ -20,23 +20,19 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/algorithms-and-data-structures.git
+   git clone https://github.com/ReeSkaaa/algorithms-and-data-structures.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd repository-name/Lab_1
+   cd algorithms-and-data-structures/Lab_2
    ```
 3. **Запуску всех задач**
     ```bash
-        команда
+          python3 run_code_script.py
+
 
 4. **Запуску всех  тестов задач**
     ```bash
-        команда
-
-## Тестирование
-Для запуска тестов выполните:
-```bash
-    pytest tests/
-```
+        
+    python3 run_tests_script.py
 

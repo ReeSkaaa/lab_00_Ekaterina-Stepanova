@@ -50,21 +50,15 @@ b0, ...bk−1, 1 ≤ bj ≤ 109 для всех 0 ≤ j < k.
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd algorithms-and-data-structures/lab_2
+   cd algorithms-and-data-structures/Lab_2
    ```
 3. Запустите программу:
    ```bash
-   python Task_7/tests/test_13_1.py
+   python src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python src/main_13_1.py
+   python tests/test.py
    ```
 
-
-## Тестирование
-Для запуска тестов выполните:
-```bash
-    pytest tests/
-```
