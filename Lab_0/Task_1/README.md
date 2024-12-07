@@ -57,12 +57,12 @@
    ```
 3. Запустите программу:
    ```bash
-   python src/main_13_1.py
+   python src/main.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python src/main_13_1.py
+   python src/main.py
    ```
 
 
