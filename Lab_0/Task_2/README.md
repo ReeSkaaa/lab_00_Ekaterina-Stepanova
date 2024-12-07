@@ -59,5 +59,5 @@ print(calc_fib(n))
 
 4. Запуск тестов:
    ```bash
-   python src/main.py
+   python tests/test.py
    ```
