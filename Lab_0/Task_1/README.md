@@ -64,10 +64,3 @@
    ```bash
    python src/main.py
    ```
-
-
-## Тестирование
-Для запуска тестов выполните:
-```bash
-    python3 tests/test_13_1.py
-```
