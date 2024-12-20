@@ -1,7 +1,6 @@
 from Lab_1.utils import read_f, write_f
 
 
-
 def lin_searh(a, n, v):
     res = []
     k = 0
@@ -10,6 +9,7 @@ def lin_searh(a, n, v):
             k += 1
             res.append(i)
     return k, res
+
 
 if __name__ == '__main__':
     n, read, elem = read_f(4)

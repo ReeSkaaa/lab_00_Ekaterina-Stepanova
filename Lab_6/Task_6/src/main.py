@@ -1,5 +1,6 @@
 from Lab_6.utils import read_f, write_f
 
+
 def iterativeFib(all_fib_num, n):
     a, b = 0, 1
     all_fib_num.add(a)
@@ -9,6 +10,7 @@ def iterativeFib(all_fib_num, n):
         all_fib_num.add(a)
         all_fib_num.add(b)
     return all_fib_num
+
 
 def fib_come_back(all_fib_num, n, data):
     answer = []
@@ -29,4 +31,3 @@ if __name__ == "__main__":
     all_fib_num = iterativeFib(all_fib_num, 5000)
     result = fib_come_back(all_fib_num, n, data)
     write_f(6, *result)
-

@@ -20,18 +20,17 @@ class TestStringMethods(unittest.TestCase):
         end_time = timeit.default_timer()
         time = end_time - start_time
 
-
         # memory test
         tracemalloc.start()
         result = find_tree_height(n, data)
         current, peak = tracemalloc.get_traced_memory()
         tracemalloc.stop()
 
-
         # then
         self.assertEqual(result, expected_data)
         self.assertLessEqual(time, expected_time, F"Run time = {time} <= {expected_time}")
         self.assertLessEqual(current, peak, F"Run memory = {current} <= {peak}")
+
     def test_should_performance_find_tree_height_example_second(self):
         "Тест затрат времени и памяти, а также проверки корректного ответа"
         # given
@@ -47,7 +46,6 @@ class TestStringMethods(unittest.TestCase):
         end_time = timeit.default_timer()
         time = end_time - start_time
 
-
         # memory test
         tracemalloc.start()
         result = find_tree_height(n, data)
@@ -58,6 +56,7 @@ class TestStringMethods(unittest.TestCase):
         self.assertEqual(result, expected_data)
         self.assertLessEqual(time, expected_time, F"Run time = {time} <= {expected_time}")
         self.assertLessEqual(current, peak, F"Run memory = {current} <= {peak}")
+
 
 if __name__ == '__main__':
     unittest.main()

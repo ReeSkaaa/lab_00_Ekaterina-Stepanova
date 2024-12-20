@@ -36,6 +36,7 @@ def get_lis(arr):
     res.reverse()
     return res
 
+
 if __name__ == "__main__":
     n, data = read_f(6)
     seq = list(map(int, data.split()))

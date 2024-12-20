@@ -1,5 +1,6 @@
 import os
 
+
 def read_f(task):
     """
     Функция для чтения входных данных из файла 'input.txt'.
@@ -19,5 +20,3 @@ def write_f(task, *args):
     with open(PATH_OUTPUT, 'w') as file:
         for i in args:
             print(i, file=file)
-
-

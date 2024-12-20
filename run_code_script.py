@@ -11,5 +11,6 @@ def run_all_tasks():
         PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), f'Lab_{i}', 'run_code_script.py'))
         subprocess.run("python " + PATH, shell=True)
 
+
 if __name__ == '__main__':
     run_all_tasks()

@@ -20,4 +20,3 @@ def write_f(task, *args):
     with open(PATH_OUTPUT, 'w') as file:
         for i in args:
             print(i, file=file)
-

@@ -10,11 +10,13 @@ def quicksort(arr):
         right = [y for y in arr[1:] if y > pivot]
         return quicksort(left) + [pivot] + quicksort(right)
 
+
 def sort_items(s):
     result = []
     for key, value in s.items():
         result.append((key, value))
     return quicksort(result)
+
 
 def do_task(n, a, s):
     for i in range(n):

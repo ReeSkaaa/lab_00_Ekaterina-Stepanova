@@ -2,6 +2,7 @@ from Lab_6.utils import read_f, write_f
 
 phone_book = {}
 
+
 def add_(entry):
     phone_number, name = entry.split()
     phone_book[phone_number] = name
@@ -9,6 +10,7 @@ def add_(entry):
 
 def del_(phone_num):
     phone_book.pop(phone_num, '')
+
 
 def do_task(n, a):
     answer = []

@@ -1,6 +1,7 @@
 import time
 from Lab_0.Task_2.src.main import main
 
+
 def main():
     a, b = 7, 8
     if -10 ** 9 <= a <= 10 ** 9 and -10 ** 9 <= b <= 10 ** 9:

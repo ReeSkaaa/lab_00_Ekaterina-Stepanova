@@ -80,5 +80,6 @@ class TestInsertionSort(unittest.TestCase):
         self.assertLessEqual(time, expected_time, F"Run time = {time} <= {expected_time}")
         self.assertLessEqual(current, peak, F"Run memory = {current} <= {peak}")
 
+
 if __name__ == '__main__':
     unittest.main()

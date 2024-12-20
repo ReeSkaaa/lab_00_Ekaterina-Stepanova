@@ -25,11 +25,11 @@ class Stack:
         tmp = self.stack
         if reverse:
             while tmp:
-                answer.append(str(tmp[-1])+ '----')
+                answer.append(str(tmp[-1]) + '----')
                 tmp = tmp[:-1]
         else:
             while tmp:
-                answer.append(str(tmp[0])+ '----'[0])
+                answer.append(str(tmp[0]) + '----'[0])
                 tmp = tmp[1:]
         answer.append('None')
 

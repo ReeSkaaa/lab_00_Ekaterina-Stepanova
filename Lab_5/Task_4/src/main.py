@@ -28,6 +28,7 @@ class MinHeap:
             self.heap[ind], self.heap[root] = self.heap[root], self.heap[ind]
             self.swap(root)
 
+
 if __name__ == "__main__":
     n, data = read_f(4)
     n = int(n)

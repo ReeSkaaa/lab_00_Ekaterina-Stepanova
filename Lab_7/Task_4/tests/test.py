@@ -28,6 +28,7 @@ class TestLCS(unittest.TestCase):
         self.assertEqual(result, expected_data)
         self.assertLessEqual(time, expected_time, F"Run time = {time} <= {expected_time}")
         self.assertLessEqual(current, peak, F"Run memory = {current} <= {peak}")
+
     def test_should_performance_lcs_with_single_data(self):
         "Тест затрат времени и памяти, а также проверки корректного ответа"
         # given
@@ -51,6 +52,7 @@ class TestLCS(unittest.TestCase):
         self.assertEqual(result, expected_data)
         self.assertLessEqual(time, expected_time, F"Run time = {time} <= {expected_time}")
         self.assertLessEqual(current, peak, F"Run memory = {current} <= {peak}")
+
     def test_should_performance_lcs_big_data(self):
         "Тест затрат времени и памяти, а также проверки корректного ответа"
         # given
@@ -74,7 +76,6 @@ class TestLCS(unittest.TestCase):
         self.assertEqual(result, expected_data)
         self.assertLessEqual(time, expected_time, F"Run time = {time} <= {expected_time}")
         self.assertLessEqual(current, peak, F"Run memory = {current} <= {peak}")
-
 
 
 if __name__ == '__main__':

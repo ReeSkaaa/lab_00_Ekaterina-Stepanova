@@ -7,6 +7,7 @@ from memory_profiler import profile
 PATH = '../txtf/input.txt'
 PATH_OUTPUT = '../txtf/output.txt'
 
+
 @profile
 def main():
     def fib(n):

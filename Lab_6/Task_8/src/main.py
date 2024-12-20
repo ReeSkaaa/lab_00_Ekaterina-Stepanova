@@ -1,4 +1,6 @@
 from Lab_6.utils import read_f, write_f
+
+
 class HashSet:
     EMPTY = -1
     DELETED = -2
@@ -32,10 +34,10 @@ class HashSet:
             return True
         return False
 
+
 def main(data):
     al = 1000
-    bl = 10**15
-
+    bl = 10 ** 15
 
     n, x, a, b = map(int, data[0].split())
     ac, bc, ad, bd = map(int, data[1].split())
@@ -52,11 +54,11 @@ def main(data):
 
     return x, a, b
 
+
 if __name__ == "__main__":
     data = read_f(8)
     res = main(data)
     s = ''
     for i in range(3):
-        s+=str(res[i])+' '
+        s += str(res[i]) + ' '
     write_f(8, s)
-

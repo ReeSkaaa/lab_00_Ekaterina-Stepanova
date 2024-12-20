@@ -3,6 +3,7 @@ from Lab_6.utils import read_f, write_f
 s = set()
 answer = []
 
+
 def add_A(data):
     s.add(data)
 

@@ -30,7 +30,6 @@ class TestFindMaxSubarray(unittest.TestCase):
         self.assertLessEqual(time, expected_time, F"Run time = {time} <= {expected_time}")
         self.assertLessEqual(current, peak, F"Run memory = {current} <= {peak}")
 
-
     def test_should_performance_find_max_subarray_big_data(self):
         "Функция для теста затрат памяти"
         # given

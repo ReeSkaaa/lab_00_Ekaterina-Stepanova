@@ -11,5 +11,6 @@ def run_2_lab_tasks():
         PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), f'Task_{i}', 'src', 'main.py'))
         subprocess.run("python " + PATH, shell=True)
 
+
 if __name__ == '__main__':
     run_2_lab_tasks()

@@ -1,6 +1,7 @@
 import random
 from Lab_2.utils import read_f, write_f
 
+
 def find_max_subarray(a, n):
     max_sum = 0
     start = 0
@@ -26,4 +27,3 @@ if __name__ == '__main__':
     res = find_max_subarray(a, n)
     answer = ["Max subarray: " + str(res[0]), "Subarray index: " + str(res[1]) + ' ' + str(res[2])]
     write_f(7, *answer)
-
